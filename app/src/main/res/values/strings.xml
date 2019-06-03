@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="deepfrie_a_meme">Deepfrie a meme</string>
+    <string name="make_a_meme">make a meme</string>
+    <string name="image">Image</string>
+</resources>
